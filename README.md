@@ -29,7 +29,7 @@ This repository contains a complete implementation and experimental analysis of 
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/tree-structures-lab.git
+git clone https://github.com/donaldbassey/tree-structures-lab.git
 cd tree-structures-lab
 
 # Install dependencies
